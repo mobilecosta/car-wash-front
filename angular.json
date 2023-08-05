@@ -137,5 +137,8 @@
       }
     }
   },
-  "defaultProject": "car-wash-front"
+  "defaultProject": "car-wash-front",
+  "cli": {
+    "analytics": false
+  }
 }
